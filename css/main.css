@@ -28,11 +28,11 @@ header a:visited {
 
 header a:hover,
 header a:focus {
-	background-color: #EE0000;
+	background-color: #6411F3;
 }
 
 #about, #projects {	 
- 	background-color: #F3A91C;
+ 	background-color: #6411F3;
 }
 
 #education, #contact {
